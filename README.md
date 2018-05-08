@@ -8,4 +8,6 @@ We have a couple million rows of testing data. Lets go ahaed and print our 20 ro
 
 ![input](https://github.com/bnicholl/probability_from_postgres/blob/master/Screen%20Shot%202018-05-07%20at%2011.15.08%20PM.png)
 
-Now here is an example of what our training data looks like:
+Our training data has 186 million rows!!! Lets go ahead and print out a few rows to get a glimpse at what our traingin data looks like:
+
+![input](https://github.com/bnicholl/probability_from_postgres/blob/master/Screen%20Shot%202018-05-07%20at%2011.27.22%20PM.png)
